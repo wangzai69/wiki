@@ -38,15 +38,15 @@
 
 <br><br>
 
-### 📂 clash for Android
+###  clash for Android
 
 <br>
 
-### 📂 clashVerge Rev for Windows
+###  clashVerge Rev for Windows
 
 <br>
 
-### 📂 Shadowrocket for iOS macOS
+###  Shadowrocket for iOS macOS
 
 
 <br>
