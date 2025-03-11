@@ -1,4 +1,4 @@
-<h1 align="center">2025详细shadowrocket、clash使用教程（终结篇）实时更新</h1>
+<h1 align="center">2025小火箭shadowrocket、clash详细图文使用教程（终结篇）实时更新</h1>
 
 ![Android](https://img.shields.io/badge/安卓-Android-brightgreen)
 ![Windows](https://img.shields.io/badge/微软-Windows-blue)
