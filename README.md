@@ -104,7 +104,8 @@
 
 ### 🚀 Shadowrocket for iOS macOS
 
-- 选一个自己心仪的节点供应商 [2025精选vpn翻墙科学上网梯子节点机场（终结篇）实时更新](https://github.com/wangzai69/vpn)
+- 先下载shadowrocket [2025官方shadowrocket小火箭免费下载（终结篇）实时更新](https://github.com/wangzai69/shadowrocket)
+- 在选一个自己心仪的节点供应商 [2025精选vpn翻墙科学上网梯子节点机场（终结篇）实时更新](https://github.com/wangzai69/vpn)
 
 ##### 导出订阅
 
