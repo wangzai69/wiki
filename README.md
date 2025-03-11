@@ -46,7 +46,7 @@
 - 图3：打开 `Clash` 选择 `配置`
 - 图4：将复制的订阅粘贴到 `URL` 中，自动更新填写 `1440分钟`
 
-<img src="./images/android/11.png">
+![图片描述](https://github.com/wangzai69/shadowrocket/blob/main/images/011.png?raw=true)
 
 <br><br><br>
 
@@ -113,7 +113,7 @@
 - 图3：进入账户 `拉到底` 
 - 图4：选择 `退出登录` 退出自己的账号
 
-<img src="./images/ios/11.jpg">
+![图片描述](https://github.com/wangzai69/shadowrocket/blob/main/images/011.png?raw=true)
 
 <br><br><br>
 
@@ -122,7 +122,7 @@
 - 图7：登录成功
 - 图8：搜索安装 `Shadowrocket` 代理工具
 
-<img src="./images/ios/22.jpg">
+![图片描述](https://github.com/wangzai69/shadowrocket/blob/main/images/022.png?raw=true)
 
 <br><br><br>
 
