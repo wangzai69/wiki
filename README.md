@@ -34,7 +34,7 @@
 ## 📂 本页目录
 - [ Android图文教程](#-clash-for-Android)  
 - [ Windows图文教程](#-clashVerge-Rev-for-Windows)
-- [ iOS、macOS图文教程](#-shadowrocket-for-iOS-macOS)
+- [ iOS、macOS图文教程](#-Shadowrocket-for-iOS-macOS)
 
 ### 📂 clash for Android
 ### 📂 clashVerge Rev for Windows
