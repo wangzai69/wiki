@@ -84,7 +84,7 @@
 
 - 购买订阅后，本站首页<code>一键订阅</code> <code>复制订阅地址</code>
 
-![图片描述](https://github.com/wangzai69/wiki/blob/main/images/111.png?raw=true)
+![图片描述](https://github.com/wangzai69/wiki/blob/main/images/111.jpg?raw=true)
 
 <br><br>
 
@@ -92,13 +92,13 @@
 - 那个圆圈是更新订阅。也可右键删除订阅。
 - 有些节点不可逆的坏了，站长会在后台增加新的节点，只需更新订阅即可同步最新节点。
 
-![图片描述](https://github.com/wangzai69/wiki/blob/main/images/222.png?raw=true)
+![图片描述](https://github.com/wangzai69/wiki/blob/main/images/222.jpg?raw=true)
 
 <br><br>
 
 - <code>设置</code>开启<code>系统代理</code>即可联网。设置里面可以选择中文。
 
-![图片描述](https://github.com/wangzai69/wiki/blob/main/images/333.png?raw=true)
+![图片描述](https://github.com/wangzai69/wiki/blob/main/images/333.jpg?raw=true)
 
 <br><br>
 
