@@ -110,18 +110,18 @@
 - 图3：进入账户 `拉到底` 
 - 图4：选择 `退出登录` 退出自己的账号
 
-![图片描述](https://github.com/wangzai69/shadowrocket/blob/main/images/011.png?raw=true)
+![图片描述](https://github.com/wangzai69/wiki/blob/main/images/11.jpg?raw=true)
 
-<br><br><br>
+<br>
 
 - 图5：美账号`在底部`复制登录
 - 图6：选择 `其他选项` `不升级`
 - 图7：登录成功
 - 图8：搜索安装 `Shadowrocket` 代理工具
 
-![图片描述](https://github.com/wangzai69/shadowrocket/blob/main/images/022.png?raw=true)
+![图片描述](https://github.com/wangzai69/wiki/blob/main/images/22.jpg?raw=true)
 
-<br><br><br>
+<br>
 
 ### 导出订阅
 
@@ -132,9 +132,9 @@
 - 图4：选择 `允许` 即可联网
 
 
-<img src="./images/ios/33.jpg">
+![图片描述](https://github.com/wangzai69/wiki/blob/main/images/33.jpg?raw=true)
 
-<br><br><br>
+<br>
 
 - 图5：`连通性测试` 节点是否可用
 - 图6：关闭 `代理`
@@ -142,21 +142,8 @@
 - 图8：标题往左滑可以 `删除订阅` 
 - 有些节点不可逆的坏了，站长会在后台增加新的节点，只需更新订阅即可同步最新节点。
 
-<img src="./images/ios/44.jpg">
+![图片描述](https://github.com/wangzai69/wiki/blob/main/images/44.jpg?raw=true)
 
-<br><br><br>
-
-
-<hr style="border: 2px solid #0033;"> 
-
-<iframe src="https://s.jiesuo.one/s/ef714f6a92bd4b2ead41b19af6fec920" 
-        width="100%" 
-        height="1000px" 
-        scrolling="no"
-        style="border: none;">
-</iframe>
-
-<hr style="border: 2px solid #0033;">
 
 <br>
 
