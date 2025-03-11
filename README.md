@@ -40,6 +40,8 @@
 
 ### 🚀 clash for Android
 
+先下载Clash [2025官方clash等节点代理工具镜像下载（终结篇）实时更新](https://github.com/wangzai69/clash)
+
 ### 导出订阅
 - 图1：购买订阅后在 `首页` 选择 `一键订阅`
 - 图2：选择 `复制订阅地址`
