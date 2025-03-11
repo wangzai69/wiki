@@ -32,14 +32,13 @@
 <br>
 
 ## 📂 本页目录
-- [ Android 代理工具](#Android-代理工具)  
-- [ Windows 代理工具](#Windows-代理工具)
-- [ MacOS 代理工具](#MacOS-代理工具)
+- [ Android图文教程](#-clash-for-Android)  
+- [ Windows图文教程](#-clashVerge-Rev-for-Windows)
+- [ iOS、macOS图文教程](#-shadowrocket-for-iOS、macOS)
 
 ### 📂 clash for Android
-### 📂 clash for Windows
-### 📂 shadowrocket for iOS macOS
-
+### 📂 clashVerge Rev for Windows
+### 📂 shadowrocket for iOS、macOS
 
 
 <br>
