@@ -51,7 +51,7 @@
 
 ![图片描述](https://github.com/wangzai69/wiki/blob/main/images/11.png?raw=true)
 
-<br><br><br>
+<br>
 
 - 图5：右上角 `保存`
 - 图6：再次选择 `配置`
@@ -60,7 +60,7 @@
 
 ![图片描述](https://github.com/wangzai69/wiki/blob/main/images/22.png?raw=true)
 
-<br><br><br>
+<br>
 
 - 图1：点击 `代理`
 - 图2：点击 `闪电`图标
