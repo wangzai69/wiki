@@ -49,7 +49,7 @@
 - 图3：打开 `Clash` 选择 `配置`
 - 图4：将复制的订阅粘贴到 `URL` 中，自动更新填写 `1440分钟`
 
-![图片描述](https://github.com/wangzai69/shadowrocket/blob/main/images/11.png?raw=true)
+![图片描述](https://github.com/wangzai69/wiki/blob/main/images/11.png?raw=true)
 
 <br><br><br>
 
@@ -58,7 +58,7 @@
 - 图7：选择刚刚保存的 `订阅`
 - 图8：最后 `运行订阅` 即可联网
 
-![图片描述](https://github.com/wangzai69/shadowrocket/blob/main/images/22.png?raw=true)
+![图片描述](https://github.com/wangzai69/wiki/blob/main/images/22.png?raw=true)
 
 <br><br><br>
 
@@ -70,7 +70,7 @@
 - 图4：可以更新订阅或删除订阅
 - 有些节点不可逆的坏了，站长会在后台增加新的节点，只需更新订阅即可同步最新节点。
 
-![图片描述](https://github.com/wangzai69/shadowrocket/blob/main/images/33.png?raw=true)
+![图片描述](https://github.com/wangzai69/wiki/blob/main/images/33.png?raw=true)
 
 <br>
 
