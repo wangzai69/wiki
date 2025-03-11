@@ -39,9 +39,6 @@
 <br>
 
 ### 🚀 clash for Android
-### 安卓 代理工具
-
-- <a href="https://656659.xyz/clash.apk" class="button" style="color: #fff; background-color: #0665d0; padding: 5px 15px; border-radius: 3px;">Clash-镜像下载 1</a>
 
 ### 导出订阅
 - 图1：购买订阅后在 `首页` 选择 `一键订阅`
