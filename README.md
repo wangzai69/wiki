@@ -36,8 +36,16 @@
 - [ Windows图文教程](#-clashVerge-Rev-for-Windows)
 - [ iOS、macOS图文教程](#-Shadowrocket-for-iOS-macOS)
 
+<br><br>
+
 ### 📂 clash for Android
+
+<br>
+
 ### 📂 clashVerge Rev for Windows
+
+<br>
+
 ### 📂 Shadowrocket for iOS macOS
 
 
