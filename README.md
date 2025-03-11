@@ -105,28 +105,8 @@
 ### 🚀 Shadowrocket for iOS macOS
 
 - 选一个自己心仪的节点供应商 [2025精选vpn翻墙科学上网梯子节点机场（终结篇）实时更新](https://github.com/wangzai69/vpn)
-##### 下载 shadowrocket
-
-- 图1：选择 `App Store` 苹果商店
-- 图2：商店首页右上角 `图标`
-- 图3：进入账户 `拉到底` 
-- 图4：选择 `退出登录` 退出自己的账号
-
-![图片描述](https://github.com/wangzai69/wiki/blob/main/images/11.jpg?raw=true)
-
-<br>
-
-- 图5：[获取免费美区ID](https://github.com/wangzai69/AppStoreID)并登录
-- 图6：选择 `其他选项` `不升级`
-- 图7：登录成功
-- 图8：搜索安装 `Shadowrocket` 代理工具
-
-![图片描述](https://github.com/wangzai69/wiki/blob/main/images/22.jpg?raw=true)
-
-<br>
 
 ##### 导出订阅
-
 
 - 图1：购买订阅后，在节点供应商首页 `导出订阅`
 - 图2：选择 `导入到Shadowrocket`
