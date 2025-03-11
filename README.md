@@ -75,18 +75,16 @@
 <br>
 
 ### 🚀 clashVerge Rev for Windows
-### Windows 代理工具
 
-- <a href="https://656659.xyz/Clash.Verge_Windows_x64-setup.exe" class="button" style="color: #fff; background-color: #0665d0; padding: 5px 15px; border-radius: 3px;">ClashVerge-镜像下载 1</a>
-
-- <a href="https://github.com/zzzgydi/clash-verge/releases/download/v1.3.8/Clash.Verge_1.3.8_x64-setup.exe" class="button" style="color: #fff; background-color: #0665d0; padding: 5px 15px; border-radius: 3px;">ClashVerge-镜像下载 2</a>
+- 先下载Clash [2025官方clash等节点代理工具镜像下载（终结篇）实时更新](https://github.com/wangzai69/clash)
+- 在选一个自己心仪的节点供应商 [2025精选vpn翻墙科学上网梯子节点机场（终结篇）实时更新](https://github.com/wangzai69/vpn)
 
 ###### 导出订阅
 
 
 - 购买订阅后，本站首页<code>一键订阅</code> <code>复制订阅地址</code>
 
-<img src="./images/windows/1.jpg">
+![图片描述](https://github.com/wangzai69/wiki/blob/main/images/111.png?raw=true)
 
 <br><br>
 
@@ -94,13 +92,13 @@
 - 那个圆圈是更新订阅。也可右键删除订阅。
 - 有些节点不可逆的坏了，站长会在后台增加新的节点，只需更新订阅即可同步最新节点。
 
-<img src="./images/windows/2.jpg">
+![图片描述](https://github.com/wangzai69/wiki/blob/main/images/222.png?raw=true)
 
 <br><br>
 
 - <code>设置</code>开启<code>系统代理</code>即可联网。设置里面可以选择中文。
 
-<img src="./images/windows/3.jpg">
+![图片描述](https://github.com/wangzai69/wiki/blob/main/images/333.png?raw=true)
 
 <br><br>
 
