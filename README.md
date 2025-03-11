@@ -103,7 +103,9 @@
 <br><br>
 
 ### 🚀 Shadowrocket for iOS macOS
-- 先下载shadowrocket [2025官方shadowrocket小火箭免费下载（终结篇）实时更新](https://github.com/wangzai69/shadowrocket)
+
+- 在选一个自己心仪的节点供应商 [2025精选vpn翻墙科学上网梯子节点机场（终结篇）实时更新](https://github.com/wangzai69/vpn)
+##### 下载 shadowrocket
 
 - 图1：选择 `App Store` 苹果商店
 - 图2：商店首页右上角 `图标`
