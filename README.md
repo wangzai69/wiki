@@ -116,7 +116,7 @@
 
 <br>
 
-- 图5：美账号`在底部`复制登录
+- 图5：[获取免费美区ID](https://github.com/wangzai69/AppStoreID)并登录
 - 图6：选择 `其他选项` `不升级`
 - 图7：登录成功
 - 图8：搜索安装 `Shadowrocket` 代理工具
