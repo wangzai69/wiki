@@ -38,7 +38,7 @@
 
 ### 📂 clash for Android
 ### 📂 clashVerge Rev for Windows
-### 📂 Shadowrocket for iOS、macOS
+### 📂 Shadowrocket for iOS macOS
 
 
 <br>
