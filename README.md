@@ -72,7 +72,7 @@
 
 ![图片描述](https://github.com/wangzai69/wiki/blob/main/images/33.png?raw=true)
 
-<br>
+<br><br>
 
 ### 🚀 clashVerge Rev for Windows
 
@@ -86,7 +86,7 @@
 
 ![图片描述](https://github.com/wangzai69/wiki/blob/main/images/111.jpg?raw=true)
 
-<br><br>
+<br>
 
 - 打开Clash，选择<code>订阅</code>将复制的代理粘贴到<code>URL</code>中，点击<code>导入</code>。
 - 那个圆圈是更新订阅。也可右键删除订阅。
@@ -94,17 +94,13 @@
 
 ![图片描述](https://github.com/wangzai69/wiki/blob/main/images/222.jpg?raw=true)
 
-<br><br>
+<br>
 
 - <code>设置</code>开启<code>系统代理</code>即可联网。设置里面可以选择中文。
 
 ![图片描述](https://github.com/wangzai69/wiki/blob/main/images/333.jpg?raw=true)
 
 <br><br>
-
----
-
-<br>
 
 ### 🚀 Shadowrocket for iOS macOS
 ### iOS和MacOS安装Shadowrocket 教程
