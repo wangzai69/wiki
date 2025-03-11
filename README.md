@@ -76,7 +76,7 @@
 
 ### 🚀 clashVerge Rev for Windows
 
-- 先下载Clash [2025官方clash等节点代理工具镜像下载（终结篇）实时更新](https://github.com/wangzai69/clash)
+- 先下载clashVerge Rev for Windows [2025官方clash等节点代理工具镜像下载（终结篇）实时更新](https://github.com/wangzai69/clash)
 - 在选一个自己心仪的节点供应商 [2025精选vpn翻墙科学上网梯子节点机场（终结篇）实时更新](https://github.com/wangzai69/vpn)
 
 ###### 导出订阅
@@ -103,7 +103,7 @@
 <br><br>
 
 ### 🚀 Shadowrocket for iOS macOS
-### iOS和MacOS安装Shadowrocket 教程
+- 先下载shadowrocket [2025官方shadowrocket小火箭免费下载（终结篇）实时更新](https://github.com/wangzai69/shadowrocket)
 
 - 图1：选择 `App Store` 苹果商店
 - 图2：商店首页右上角 `图标`
