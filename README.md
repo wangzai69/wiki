@@ -26,7 +26,7 @@
 #### [2025官方shadowrocket小火箭免费下载（终结篇）实时更新](https://github.com/wangzai69/shadowrocket)
 #### [2025官方谷歌商店 GooglePlay服务框架（终结篇）实时更新](https://github.com/wangzai69/GooglePlay)
 #### [2025最新版 TikTok 免拔卡苹果安卓下载（终结篇）实时更新](https://github.com/wangzai69/GooglePlay)
-#### [2025详细clash、shadowrocket图文教程（终结篇）实时更新](https://github.com/wangzai69/wiki)
+#### [2025免费下载shadowrocket、clash图文（终结篇）实时更新](https://github.com/wangzai69/wiki)
 #### [更多文章更新中 ... ]()
 
 <br>
