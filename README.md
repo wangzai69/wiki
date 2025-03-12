@@ -42,7 +42,7 @@
 - [ Windows图文教程](#-clashVerge-Rev-for-Windows)
 - [ iOS、macOS图文教程](#-Shadowrocket-for-iOS-macOS)
 
-<br>
+<br><br>
 
 ### 🚀 clash for Android
 
@@ -78,7 +78,7 @@
 
 ![图片描述](https://github.com/wangzai69/wiki/blob/main/images/33.png?raw=true)
 
-<br><br>
+<br><br><br>
 
 ### 🚀 clashVerge Rev for Windows
 
@@ -106,7 +106,7 @@
 
 ![图片描述](https://github.com/wangzai69/wiki/blob/main/images/333.jpg?raw=true)
 
-<br><br>
+<br><br><br>
 
 ### 🚀 Shadowrocket for iOS macOS
 
