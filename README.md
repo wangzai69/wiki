@@ -1,4 +1,4 @@
-# 2025小火箭shadowrocket、clash详细图文使用教程（终结篇）实时更新
+# 2025翻墙软件如何使用详细图文教程（终结篇）实时更新
 
 ![Android](https://img.shields.io/badge/安卓-Android-brightgreen)
 ![Windows](https://img.shields.io/badge/微软-Windows-blue)
@@ -24,7 +24,7 @@
 #### [2025精选翻墙梯子节点机场vpn推荐（终结篇）实时更新](https://github.com/wangzai69/vpn)
 #### [2025镜像下载安装clash翻墙软件（终结篇）实时更新](https://github.com/wangzai69/app)
 #### [2025免费下载官方shadowrocket小火箭（终结篇）实时更新](https://github.com/wangzai69/shadowrocket)
-#### [2025小火箭、clash详细图文使用教程（终结篇）实时更新](https://github.com/wangzai69/wiki)
+#### [2025翻墙软件如何使用详细图文教程（终结篇）实时更新](https://github.com/wangzai69/wiki)
 #### [2025官方谷歌商店GooglePlay服务框架（终结篇）实时更新](https://github.com/wangzai69/GooglePlay)
 #### [2025最新免费TikTok苹果安卓教程（终结篇）实时更新](https://github.com/wangzai69/tiktok)
 #### [更多文章更新中 ... ]()
