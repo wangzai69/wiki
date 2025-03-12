@@ -76,7 +76,7 @@
 
 ### 🚀 clashVerge Rev for Windows
 
-- 先下载Clash [2025镜像下载安装clash翻墙软件（终结篇）实时更新](https://github.com/wangzai69/app)
+- 先下载clashVerge Rev [2025镜像下载安装clash翻墙软件（终结篇）实时更新](https://github.com/wangzai69/app)
 - 在选一个自己心仪的节点供应商 [2025精选翻墙梯子节点机场vpn推荐（终结篇）实时更新](https://github.com/wangzai69/vpn)
 
 ###### 导出订阅
