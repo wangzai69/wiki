@@ -40,8 +40,8 @@
 
 ### 🚀 clash for Android
 
-- 先下载Clash [2025官方clash等节点代理工具镜像下载（终结篇）实时更新](https://github.com/wangzai69/app)
-- 在选一个自己心仪的节点供应商 [2025精选vpn翻墙科学上网梯子节点机场（终结篇）实时更新](https://github.com/wangzai69/vpn)
+- 先下载Clash [2025镜像下载安装clash翻墙软件（终结篇）实时更新](https://github.com/wangzai69/app)
+- 在选一个自己心仪的节点供应商 [2025精选翻墙梯子节点机场vpn推荐（终结篇）实时更新](https://github.com/wangzai69/vpn)
 
 ##### 导出订阅
 - 图1：购买订阅后，在 `节点供应商首页` 选择 `一键订阅`
@@ -76,8 +76,8 @@
 
 ### 🚀 clashVerge Rev for Windows
 
-- 先下载clashVerge Rev for Windows [2025官方clash等节点代理工具镜像下载（终结篇）实时更新](https://github.com/wangzai69/app)
-- 在选一个自己心仪的节点供应商 [2025精选vpn翻墙科学上网梯子节点机场（终结篇）实时更新](https://github.com/wangzai69/vpn)
+- 先下载Clash [2025镜像下载安装clash翻墙软件（终结篇）实时更新](https://github.com/wangzai69/app)
+- 在选一个自己心仪的节点供应商 [2025精选翻墙梯子节点机场vpn推荐（终结篇）实时更新](https://github.com/wangzai69/vpn)
 
 ###### 导出订阅
 
@@ -104,8 +104,8 @@
 
 ### 🚀 Shadowrocket for iOS macOS
 
-- 先下载shadowrocket [2025官方shadowrocket小火箭免费下载（终结篇）实时更新](https://github.com/wangzai69/shadowrocket)
-- 在选一个自己心仪的节点供应商 [2025精选vpn翻墙科学上网梯子节点机场（终结篇）实时更新](https://github.com/wangzai69/vpn)
+- 先下载 Shadowrocket [2025免费下载官方shadowrocket小火箭（终结篇）实时更新](https://github.com/wangzai69/shadowrocket)
+- 在选一个自己心仪的节点供应商 [2025精选翻墙梯子节点机场vpn推荐（终结篇）实时更新](https://github.com/wangzai69/vpn)
 
 ##### 导出订阅
 
