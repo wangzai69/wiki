@@ -22,7 +22,7 @@
 
 ## 📖 经典外链 | 实时更新
 #### [2025精选vpn翻墙科学上网梯子节点机场（终结篇）实时更新](https://github.com/wangzai69/vpn)
-#### [2025官方clash等节点代理工具镜像下载（终结篇）实时更新](https://github.com/wangzai69/clash)
+#### [2025官方clash等节点代理工具镜像下载（终结篇）实时更新](https://github.com/wangzai69/app)
 #### [2025官方shadowrocket小火箭免费下载（终结篇）实时更新](https://github.com/wangzai69/shadowrocket)
 #### [2025小火箭、clash详细图文使用教程（终结篇）实时更新](https://github.com/wangzai69/wiki)
 #### [2025官方谷歌商店 GooglePlay服务框架（终结篇）实时更新](https://github.com/wangzai69/GooglePlay)
@@ -40,7 +40,7 @@
 
 ### 🚀 clash for Android
 
-- 先下载Clash [2025官方clash等节点代理工具镜像下载（终结篇）实时更新](https://github.com/wangzai69/clash)
+- 先下载Clash [2025官方clash等节点代理工具镜像下载（终结篇）实时更新](https://github.com/wangzai69/app)
 - 在选一个自己心仪的节点供应商 [2025精选vpn翻墙科学上网梯子节点机场（终结篇）实时更新](https://github.com/wangzai69/vpn)
 
 ##### 导出订阅
@@ -76,7 +76,7 @@
 
 ### 🚀 clashVerge Rev for Windows
 
-- 先下载clashVerge Rev for Windows [2025官方clash等节点代理工具镜像下载（终结篇）实时更新](https://github.com/wangzai69/clash)
+- 先下载clashVerge Rev for Windows [2025官方clash等节点代理工具镜像下载（终结篇）实时更新](https://github.com/wangzai69/app)
 - 在选一个自己心仪的节点供应商 [2025精选vpn翻墙科学上网梯子节点机场（终结篇）实时更新](https://github.com/wangzai69/vpn)
 
 ###### 导出订阅
