@@ -16,7 +16,7 @@
 
 ### 🚀 clash for Android
 
-- 先下载 [Clash](https://github.com/wangzai69/Clash)
+- 先下载 [Clash](https://github.com/wangzai69/clash)
 - 在选一个自己心仪的 [节点供应商](https://github.com/wangzai69/vpn)
 
 ##### 导出订阅
@@ -52,7 +52,7 @@
 
 ### 🚀 clashVerge Rev for Windows
 
-- 先下载 [clash Verge Rev](https://github.com/wangzai69/Clash)
+- 先下载 [clash Verge Rev](https://github.com/wangzai69/clash)
 - 在选一个自己心仪的 [节点供应商](https://github.com/wangzai69/vpn)
 
 ###### 导出订阅
