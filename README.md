@@ -27,7 +27,7 @@
 |------|
 |[ Android图文教程](#-clash-for-Android)  |
 |[ Windows图文教程](#-clashVerge-Rev-for-Windows)|
-|[ iOS、macOS图文教程](#-Shadowrocket-for-iOS-macOS)|
+|[ iOS、iPad、mac-M芯片图文教程](#-Shadowrocket-for-iOS-macOS)|
 
 <br><br>
 
